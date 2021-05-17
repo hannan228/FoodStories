@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "908867111640",
+    "project_id": "foodstories-4e171",
+    "storage_bucket": "foodstories-4e171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908867111640:android:620b875fee7885f945e5ad",
+        "android_client_info": {
+          "package_name": "jav.app.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908867111640-gldm2oot7vrph57mrt7p0ca7p9mss23g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jav.app.myapplication",
+            "certificate_hash": "e4779469652ea256785650ce5b2f9eaf697265c9"
+          }
+        },
+        {
+          "client_id": "908867111640-joijepv8e9gik02p0eauhlrcd1l4gi24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMQaxr4pgsAKFkXWzmi_v4KligHbo41TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908867111640-joijepv8e9gik02p0eauhlrcd1l4gi24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

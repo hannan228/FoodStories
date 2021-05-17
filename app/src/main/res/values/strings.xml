@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FoodStories</string>
+    <string name="location">A108 Adam street, New York, Ny 66262692</string>
+    <string name="email">info@example.com</string>
+    <string name="call">+91222222000</string>
+</resources>
